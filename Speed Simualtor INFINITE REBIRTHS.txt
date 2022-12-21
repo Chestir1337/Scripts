@@ -1,5 +1,5 @@
 local RunService = game:GetService("RunService")
-_G.yes = true
+_G.yes = false
 local speedyboi
 function Ez()
 if _G.yes == true then
